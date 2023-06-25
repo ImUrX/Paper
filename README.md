@@ -1,3 +1,3 @@
 # RNGPaper aka Paper without the RNG patch
 
-[Download it](https://nightly.link/ImUrX/RNGPaper/workflows/build/master/RNGPaper.zip)
+Use [Purpur](https://github.com/PurpurMC/Purpur) and disable shared random instead
